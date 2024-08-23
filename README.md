@@ -1,2 +1,2 @@
 # Netflix-Clone
-us
+using html and css
