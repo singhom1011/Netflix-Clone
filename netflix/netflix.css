@@ -1,0 +1,234 @@
+#div1{
+    display: inline;
+    
+}
+#tit{
+    position: absolute;
+    top: 30px;
+    color: red;
+    font-size:300%;
+    left: 80px;
+    text-decoration: double;
+    text-justify: kashida;
+}
+#lang{
+    position: absolute;
+        right: 200px;
+        top: 33px;
+        font-size:medium;
+        color: white;
+        background-color: black;
+        padding: 4px 7px 4px 7px;
+}
+#but1{
+    position: absolute;
+    right: 100px;
+    top: 33px;
+    font-size: medium;
+    color: white;
+    background-color: red;
+    padding: 4px 7px 4px 7px;
+    border-radius: 10%;
+}
+body{
+    background-image: url("https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/netflixteaser.png");
+    background-size: cover;
+    background-color: black;
+    background-repeat: no-repeat;
+}
+#div2{
+
+    position: absolute;
+    text-align: center;
+    top: 250px;
+    font-size: 350%;
+    color: white;
+    left: 10%;
+    padding: 2px 300px 2px 300px;
+}
+#em{
+    position: absolute;
+    top: 400px;
+    left: 33%;
+    font-size: 150%;
+    background-color: rgba(31, 30, 30, 0.3);
+    border-color: white;
+    color: white;
+}
+#but2{
+    position: absolute;
+    top: 400px;
+    font-size: 150%;
+    background-color: red;
+    color: white;
+    left: 60%;
+    padding: 4px 8px 4px 8px;
+    border-radius: 14%;
+    border-color: red;
+}
+#div3{
+    position: absolute;
+    top: 113%;
+    left: 5%;
+    font-size: medium;
+}
+#tre{
+    position: absolute;
+    top: 105%;
+    left: 5%;
+    font-size:xx-large;
+    color: white;
+}
+#mov{
+    padding: 5px 30px 5px 30px;
+}
+#cou{
+    padding: 5px 30px 5px 30px;
+}
+#b1{
+    position: absolute;
+    top: 125%;
+    left: 20px;
+    border: solid;
+    height: 400px;
+    width: 270px;
+    background-image: url("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/movie-poster-template-design-21a1c803fe4ff4b858de24f5c91ec57f_screen.jpg?ts=1636996180");
+    background-size: cover;
+}
+#b2{
+    position: absolute;
+    border: solid;
+    height: 400px;
+    width: 270px;
+    top: 125%;
+    left: 330px;
+    background-image: url("https://images-cdn.ubuy.co.in/668f03f763dc6918441092c0-avengers-infinity-war-movie-poster.jpg");
+    background-size: cover;
+}
+#b3{
+    position: absolute;
+    top: 125%;
+    left: 640px;
+    border: solid;
+    height: 400px;
+    width: 270px;
+    background-image: url("https://d1csarkz8obe9u.cloudfront.net/posterpreviews/action-movie-poster-template-design-0f5fff6262fdefb855e3a9a3f0fdd361_screen.jpg?ts=1700270983");
+    background-size: cover;
+}
+#b4{
+    position: absolute;
+    top: 125%;
+    left: 950px;
+    border: solid;
+    height: 400px;
+    width: 270px;
+    background-image: url("https://cdn.kinocheck.com/i/b2hl0eblct.jpg");
+    background-size: cover;
+}
+#tl{
+    position: absolute;
+    color: white;
+    font-size: xx-large;
+    top: 200%;
+    left: 4%;
+}
+#b5{
+    position: absolute;
+    color: whitesmoke;
+    font-size: xx-large;
+    padding: 3px 490px 3px 60px;
+    top: 220%;
+    left: 4%;
+    background-color: rgb(46, 44, 44);
+
+}
+#b6{
+    position: absolute;
+    color: whitesmoke;
+    font-size: xx-large;
+    padding: 3px 300px 3px 60px;
+    top: 230%;
+    left: 4%;
+    background-color: rgb(46, 44, 44);
+}
+#b7{
+    position: absolute;
+    color: whitesmoke;
+    font-size: xx-large;
+    padding: 3px 428px 3px 60px;
+    top: 240%;
+    left: 4%;
+    background-color: rgb(46, 44, 44);
+}
+#b8{
+    position: absolute;
+    color: whitesmoke;
+    font-size: xx-large;
+    padding: 3px 305px 3px 60px;
+    top: 250%;
+    left: 4%;
+    background-color: rgb(46, 44, 44);
+}
+#b9{
+    position: absolute;
+    color: whitesmoke;
+    font-size: xx-large;
+    padding: 3px 380px 3px 60px;
+    top: 260%;
+    left: 4%;
+    background-color: rgb(46, 44, 44);
+}
+#o1{
+    position: absolute;
+    color: whitesmoke;
+    top: 220%;
+    left: 63%;
+    font-size: xx-large;
+    background-color: rgb(46, 44, 44);
+    padding: 3px 9px 3px 9px;
+}
+
+#o2{
+    position: absolute;
+    color: whitesmoke;
+    top: 230%;
+    left: 63%;
+    font-size: xx-large;
+    background-color: rgb(46, 44, 44);
+    padding: 3px 9px 3px 9px;
+}
+#o3{
+    position: absolute;
+    color: whitesmoke;
+    top: 240%;
+    left: 63%;
+    font-size: xx-large;
+    background-color: rgb(46, 44, 44);
+    padding: 3px 9px 3px 9px;
+}
+#o4{
+    position: absolute;
+    color: whitesmoke;
+    top: 250%;
+    left: 63%;
+    font-size: xx-large;
+    background-color: rgb(46, 44, 44);
+    padding: 3px 9px 3px 9px;
+}
+#o5{
+    position: absolute;
+    color: whitesmoke;
+    top: 260%;
+    left: 63%;
+    font-size: xx-large;
+    background-color: rgb(46, 44, 44);
+    padding: 3px 9px 3px 9px;
+}
+#bh{
+    position: absolute;
+    color: aliceblue;
+    top: 280%;
+    left: 30%;
+    font-size: xx-large;
+
+}
